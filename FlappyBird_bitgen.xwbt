@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\M1A2\Desktop\FlappyBird rev.rev\FlappyBird.ncd
+OUTFILE=C:\Users\M1A2\Desktop\FlappyBird rev.rev\FlappyBird.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=C:\Users\M1A2\Desktop\FlappyBird rev.rev
+LICENSE=WebPack
+USER_INFO=211236040_0_0_676
